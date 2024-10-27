@@ -2,15 +2,7 @@
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalb09&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalbhatt09?logo=twitter&style=for-the-badge" alt="ujjwalbhatt09" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalb09&show_icons=true&locale=en&layout=compact" alt="ujjwalb09" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalb09&show_icons=true&locale=en" alt="ujjwalb09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalb09&" alt="ujjwalb09" /></p>
 
 <div>
   <img
