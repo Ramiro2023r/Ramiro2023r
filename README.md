@@ -25,6 +25,8 @@
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  
 </span>
 
 <h4> Others </h4>
