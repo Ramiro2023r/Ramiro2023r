@@ -18,7 +18,7 @@ Angular
 👯 I look forward to collaborating on open-source projects.
 ✔ Ask me anything, I am happy to help!
 Outside of technology, 📖 I love reading novels, 🖌️ painting and sketching, 🎵 listening to music, and 🌴 exploring nature outdoors.
-📫 Reach out to me at: i202213144@cibertec.edu.pe<a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+📫 Reach out to me at: i202213144@cibertec.edu.pe
 
 
 ## My Skills Include
