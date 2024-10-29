@@ -77,7 +77,7 @@ I am a final-year student of Computer Science and Engineering at Cibertec, neari
 
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Ramiro2023rshow_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Ramiro2023r)
+[![](https://github-readme-stats.vercel.app/api?username=Ramiro2023r&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Ramiro2023r)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Ramiro2023r&theme=material-palenight)](https://github.com/Ramiro2023r)
 </div>
 
