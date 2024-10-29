@@ -17,7 +17,8 @@ I am a final-year student of Computer Science and Engineering at Cibertec, neari
 - Angular
 - 👯 I look forward to collaborating on open-source projects.
 - ✔ Ask me anything, I am happy to help!
-- Outside of technology, 📖 I love reading novels, 🖌️ painting and sketching, 🎵 listening to music, and 🌴 exploring nature outdoors.
+- Outside of technology, 📖 I love reading novels, 🖌️ painting and sketching, 🎵 listening to music,<br>
+-  and 🌴 exploring nature outdoors.
 - 📫 Reach out to me at: i202213144@cibertec.edu.pe
 
 
