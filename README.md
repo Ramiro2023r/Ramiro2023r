@@ -10,15 +10,15 @@
 
 I am a final-year student of Computer Science and Engineering at Cibertec, nearing graduation. I have experience in application development with Java, Spring Boot, and FeignClient for microservices architecture, Angular for frontend development, and .NET with C#. I possess a strong ability to integrate RESTful APIs and develop scalable and efficient solutions. I am motivated to contribute to innovative projects and ready to join the workforce.
 
-I am interested in innovative projects and teamwork.
-🌱 I am currently improving my skills in:
-Java
-Spring Boot
-Angular
-👯 I look forward to collaborating on open-source projects.
-✔ Ask me anything, I am happy to help!
-Outside of technology, 📖 I love reading novels, 🖌️ painting and sketching, 🎵 listening to music, and 🌴 exploring nature outdoors.
-📫 Reach out to me at: i202213144@cibertec.edu.pe
+* **I am interested in innovative projects and teamwork.**
+- 🌱 I am currently improving my skills in:
+- Java
+- Spring Boot
+- Angular
+- 👯 I look forward to collaborating on open-source projects.
+- ✔ Ask me anything, I am happy to help!
+- Outside of technology, 📖 I love reading novels, 🖌️ painting and sketching, 🎵 listening to music, and 🌴 exploring nature outdoors.
+- 📫 Reach out to me at: i202213144@cibertec.edu.pe
 
 
 ## My Skills Include
