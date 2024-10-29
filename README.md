@@ -60,7 +60,7 @@ I am a final-year student of Computer Science and Engineering at Cibertec, neari
           
 
   
-</span>
+</span> </br>
 ## Check out my Social Media
 <span>
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
