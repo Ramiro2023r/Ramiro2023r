@@ -8,7 +8,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a final-year student of Computer Science and Engineering at Cibertec, nearing graduation. I have experience in application development with Java, Spring Boot, and FeignClient for microservices architecture, Angular for frontend development, and .NET with C#. I possess a strong ability to integrate RESTful APIs and develop scalable and efficient solutions. I am motivated to contribute to innovative projects and ready to join the workforce.
+I am a graduate in Computer Science and Informatics from Cibertec and I am currently studying Systems Engineering at UPC. I have experience in application development with Java, Spring Boot, and FeignClient for microservices architecture, Angular for frontend development, and .NET with C#. I possess a strong ability to integrate RESTful APIs and develop scalable and efficient solutions. I am motivated to contribute to innovative projects and ready to join the workforce.
 
 * **I am interested in innovative projects and teamwork.**
 - 🌱 I am currently improving my skills in:
